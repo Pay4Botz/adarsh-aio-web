@@ -1,5 +1,4 @@
 const express = require("express");
-require('dotenv').config()
 const compression = require("compression");
 const bodyParser = require("body-parser");
 const serveIndex = require("serve-index");
